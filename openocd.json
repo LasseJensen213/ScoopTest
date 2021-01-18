@@ -4,7 +4,7 @@
     "license": "GPL-2.0-only",
     "url": "https://github.com/xpack-dev-tools/openocd-xpack/releases/download/v0.10.0-15/xpack-openocd-0.10.0-15-win32-x64.zip",
     "hash": "6bd6999f7371f68ccc861cf84133feef9976e91fc6a29ef2740d6bd3e4ff203f",
-    "extract_dir": "GNU MCU Eclipse/OpenOCD/0.10.0-15-20181020-0522",
+    "extract_dir": "xpack-openocd-0.10.0-15",
     "bin": [
         "bin/openocd.exe"
     ]
