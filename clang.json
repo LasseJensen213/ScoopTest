@@ -15,6 +15,6 @@
     },
     "post_install": "Remove-Item * -Exculde clang-format.exe,*.dll",
     "bin": [
-        "clang-format.exe"
+        "clang.exe"
     ]
 }
